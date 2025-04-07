@@ -65,5 +65,5 @@ Each model logs:
 - Implement **custom loss functions** for different tasks
 
 ## 🎥 Video Walkthrough
-A detailed walkthrough of the project, including model architecture, training process, and experiment tracking, is available in the [video](www.youtube.com).
+A detailed walkthrough of the project, including model architecture, training process, and experiment tracking, is available in the [video](https://youtu.be/zVvdCUSzp2k).
 
